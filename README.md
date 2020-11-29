@@ -12,9 +12,9 @@
 ---
 ## code of project
 
-depend on c/c++ and use library of *servo motor
+depend on c/c++ and use library of *servo motor*
 ---
-## How work?
+## How it work?
 
 when you go near to the door the light decrease so sensor read that one is near to door and give condtion to door that open and the same when go out when the number 
 of poeple that enterd be 5 the door dosen`t open and the lamp will bright when somone want to go out the door is open and one can go enter
